@@ -1,4 +1,6 @@
 # Churn_analysis-EDA-
+- Dataset: Kaggle
+- ~ Use Kaggle user name and key to download data
 Data preprocessing, EDA and Model training
 Steps include:
 - Data processing
